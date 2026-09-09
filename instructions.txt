@@ -1,0 +1,6 @@
+To easily and correctly run both the apps in this assignment, follow below instructions:
+
+1. Clone the github repo at https://github.com/Atul-Lohiya/assign_genai with command: git clone https://github.com/Atul-Lohiya/assign_genai.git
+2. Switch to correct virtual environment. The apps were tested with python 3.12 and dependencies mentioned in requirements.txt.
+3. Install all the dependencies present in requirements.txt with command: pip install -r requirements.txt
+4. Run each streamlit app individually with streamlit run ./insurance_policy_agent/app.py and streamlit run ./Resume_Screening_RAG_Assistant/app.py respectively. For details of ach app, go through the read.md files in respective folders

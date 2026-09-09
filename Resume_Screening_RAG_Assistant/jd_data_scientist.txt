@@ -1,0 +1,28 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist to join our analytics team. The ideal
+candidate will have strong experience building machine learning models,
+working with large datasets, and communicating insights to stakeholders.
+
+Required Skills:
+- Strong proficiency in Python (pandas, NumPy, scikit-learn)
+- Experience with SQL and relational databases
+- Hands-on experience building and deploying machine learning models
+- Experience with deep learning frameworks (TensorFlow or PyTorch)
+- Solid understanding of statistics and experimental design (A/B testing)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Strong data visualization skills (Matplotlib, Seaborn, Tableau, or PowerBI)
+- Bachelor's or Master's degree in Computer Science, Statistics, or related field
+
+Nice to Have:
+- Experience with MLOps tools (MLflow, Airflow, Docker, Kubernetes)
+- Experience with NLP or computer vision
+- Experience with big data tools (Spark, Hadoop)
+- Prior experience in a fast-paced startup environment
+
+Responsibilities:
+- Design and build predictive models to support business decisions
+- Partner with product and engineering teams to deploy models to production
+- Analyze large datasets to extract actionable insights
+- Present findings to non-technical stakeholders
+- Own the full ML lifecycle from data exploration to monitoring in production
